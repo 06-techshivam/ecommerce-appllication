@@ -102,7 +102,7 @@ To connect a live backend (Shopify Storefront API, Medusa, Commerce Layer, or cu
 ```bash
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000).
+Open [https://w2f3s8c4.insforge.site/](https://w2f3s8c4.insforge.site/).
 
 ### Production Build
 ```bash

@@ -14,7 +14,7 @@ if (!TOKEN) {
 const OWNER = "06-techshivam";
 const REPO = "ecommerce-appllication";
 const BRANCH = "main";
-const COMMIT_MESSAGE = "feat: Initial commit - Zenvora Luxury Fashion eCommerce Platform";
+const COMMIT_MESSAGE = process.env.COMMIT_MESSAGE || "docs: Update live site link in README.md";
 
 const API_BASE = `https://api.github.com/repos/${OWNER}/${REPO}`;
 
