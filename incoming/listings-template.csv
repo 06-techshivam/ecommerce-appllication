@@ -1,0 +1,5 @@
+name,category,subcategory,price,compareAtPrice,description,sizes,image1,image2,featured,isNew,trending
+"Heavyweight Merino Mockneck",men,Knitwear,185,220,"Spun from 19.5-micron Italian Merino wool with an architectural rib collar and relaxed fit.",S|M|L|XL,mockneck-front.jpg,mockneck-back.jpg,yes,yes,no
+"Pleated Satin Evening Gown",women,Dresses,340,,"Cut from Japanese acetate satin with deep back pleats and dramatic fluid drape.",XS|S|M|L,gown-front.jpg,gown-detail.jpg,yes,no,yes
+"Double-Breasted Alpaca Coat",women,Coats & Jackets,460,520,"Sumptuous brushed alpaca wool tailored with generous peaked lapels and horn buttons.",XS|S|M|L|XL,alpaca-front.jpg,,no,yes,yes
+
